@@ -1,7 +1,7 @@
 AppStore Sentiment Analysis
 ==============
 
-Its just a bunch of scripts which scrapes data off Apple App store. Then tries to determine overall sentiments on the app reviews .
+Its just a bunch of scripts which scrapes data off Apple App store. Then tries to determine overall sentiments of the reviews .
 Its incomplete, I am not actively maintaining it.
 
 
